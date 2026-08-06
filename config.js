@@ -5,7 +5,7 @@ window.APP = {
   tagline: "Bikin & jual kelas online lebih cepat",
   logo: "",
   modul: ["progres", "murid", "jadwal", "kelas", "kuis", "sertifikat", "jual"],
-  ai: { provider: "gemini", model: "gemini-2.0-flash" },
+  ai: { provider: "gemini", model: "gemini-3.6-flash" },
   tema: {
     theme: "dark", glass: false, accent: "#84cc16",
     vars: {
